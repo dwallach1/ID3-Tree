@@ -12,7 +12,7 @@ Each node of the tree is represented by the class in node.py, the ID3 and prune 
 You can refer to unit_tests.py to see how to build, train and evaluate an ID3 tree built by this program and then build a porgram that uses this ID3 tree for your specific needs
 
 
-
+# Pruning & Overfitting 
 The improvement by using pruneing can be shown by this picture: 
 ![alt tag](https://github.com/dwallach1/ID3-Tree/blob/master/Screen%20Shot%202017-04-13%20at%205.50.08%20PM.png)
 
